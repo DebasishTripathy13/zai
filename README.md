@@ -7,6 +7,15 @@ Built for the **Z.ai Builder Series · Build with GLM 5.1** · April 2026
 
 ---
 
+## Screenshots
+
+| Concept | Hardware | Live Alerts |
+|---|---|---|
+| ![Threat detection overlay — mesh active, hostile tracking, EMS notified](docs/screenshots/concept.png) | ![Physical device — Pico W, MPU6050, SIM800L, camera on breadboard](docs/screenshots/hardware.png) | ![Terminal output + phone push notifications firing in real time](docs/screenshots/alerts.png) |
+| Threat detected, mesh active, EMS notified | Physical device on breadboard | Real-time push alerts to guardian app |
+
+---
+
 ## The Problem
 
 Personal safety devices today are dumb — they either always alert (false alarms) or never alert (too slow). A fall detector can't tell the difference between tripping on stairs and being shoved. A loud-noise trigger can't distinguish a scream from a crowd cheering.
