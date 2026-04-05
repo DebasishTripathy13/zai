@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+paho-mqtt
+firebase-admin
+requests
